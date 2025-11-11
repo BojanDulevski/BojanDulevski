@@ -16,6 +16,7 @@
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Advanced Java](https://img.shields.io/badge/Advanced%20Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BojanDulevski&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
