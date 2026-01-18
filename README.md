@@ -16,8 +16,8 @@
 ---
 
 ## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
@@ -30,39 +30,34 @@
 
 ---
 
-## 📈 Language Progress
+## 🧩 Languages Breakdown
 
-**C++**
-<progress value="85" max="100"></progress> 85%
+<div style="width:100%; height:18px; background:#2d333b; border-radius:10px; overflow:hidden;">
 
-**Java**
-<progress value="80" max="100"></progress> 80%
+  <div style="width:30%; height:100%; background:#f34b7d; float:left;"></div> <!-- C++ -->
+  <div style="width:25%; height:100%; background:#b07219; float:left;"></div> <!-- Java -->
+  <div style="width:15%; height:100%; background:#f1e05a; float:left;"></div> <!-- JavaScript -->
+  <div style="width:10%; height:100%; background:#3178c6; float:left;"></div> <!-- TypeScript -->
+  <div style="width:8%; height:100%; background:#41b883; float:left;"></div> <!-- Vue -->
+  <div style="width:7%; height:100%; background:#6db33f; float:left;"></div> <!-- Spring -->
+  <div style="width:5%; height:100%; background:#178600; float:left;"></div> <!-- C# -->
 
-**JavaScript**
-<progress value="75" max="100"></progress> 75%
+</div>
 
-**TypeScript**
-<progress value="70" max="100"></progress> 70%
+<br>
 
-**React**
-<progress value="75" max="100"></progress> 75%
-
-**Vue.js**
-<progress value="65" max="100"></progress> 65%
-
-**Spring Boot**
-<progress value="60" max="100"></progress> 60%
-
-**C# / .NET**
-<progress value="55" max="100"></progress> 55%
-
-**SQL (PostgreSQL)**
-<progress value="65" max="100"></progress> 65%
+🔴 **C++** 30%  
+🟤 **Java** 25%  
+🟡 **JavaScript** 15%  
+🔵 **TypeScript** 10%  
+🟢 **Vue.js** 8%  
+🟢 **Spring Boot** 7%  
+🟢 **C# / .NET** 5%  
 
 ---
 
 ## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BojanDulevski&theme=dark&hide_border=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BojanDulevski&theme=dark)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=BojanDulevski&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BojanDulevski&layout=compact&theme=dark)
 
@@ -73,4 +68,4 @@
 
 ---
 
-⭐ *Always learning. Always building.*
+⭐ Always learning. Always building.
