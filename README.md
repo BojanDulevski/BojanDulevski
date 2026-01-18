@@ -33,15 +33,13 @@
 ## 🧩 Languages Breakdown
 
 <div style="width:100%; height:18px; background:#2d333b; border-radius:10px; overflow:hidden;">
-
-  <div style="width:30%; height:100%; background:#f34b7d; float:left;"></div> <!-- C++ -->
-  <div style="width:25%; height:100%; background:#b07219; float:left;"></div> <!-- Java -->
-  <div style="width:15%; height:100%; background:#f1e05a; float:left;"></div> <!-- JavaScript -->
-  <div style="width:10%; height:100%; background:#3178c6; float:left;"></div> <!-- TypeScript -->
-  <div style="width:8%; height:100%; background:#41b883; float:left;"></div> <!-- Vue -->
-  <div style="width:7%; height:100%; background:#6db33f; float:left;"></div> <!-- Spring -->
-  <div style="width:5%; height:100%; background:#178600; float:left;"></div> <!-- C# -->
-
+  <div style="width:30%; height:100%; background:#f34b7d; float:left;"></div>
+  <div style="width:25%; height:100%; background:#b07219; float:left;"></div>
+  <div style="width:15%; height:100%; background:#f1e05a; float:left;"></div>
+  <div style="width:10%; height:100%; background:#3178c6; float:left;"></div>
+  <div style="width:8%; height:100%; background:#41b883; float:left;"></div>
+  <div style="width:7%; height:100%; background:#6db33f; float:left;"></div>
+  <div style="width:5%; height:100%; background:#178600; float:left;"></div>
 </div>
 
 <br>
@@ -56,10 +54,16 @@
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BojanDulevski&theme=dark)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=BojanDulevski&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BojanDulevski&layout=compact&theme=dark)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BojanDulevski&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BojanDulevski&theme=dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojanDulevski&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
