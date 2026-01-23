@@ -27,6 +27,10 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git)
+![AJAX](https://img.shields.io/badge/AJAX-%230072C6.svg?style=for-the-badge&logo=javascript)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery)
+![Advanced Java](https://img.shields.io/badge/Advanced_Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
 
 ---
 
