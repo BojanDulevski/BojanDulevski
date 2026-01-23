@@ -1,66 +1,30 @@
-# 👋 Hi, I'm Bojan Dulevski  
+<h1 align="center">Hi 👋, I'm Bojan Dulevski</h1>
+<h3 align="center">A passionate frontend developer from North Macedonia</h3>
 
-💻 Frontend Engineer | Market Developer | CS Student  
-🚀 Passionate about Web, Software Engineering & Modern Tech  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bojandulevski&label=Profile%20views&color=0e75b6&style=flat" alt="bojandulevski" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bojandulevski" alt="bojandulevski" /></a> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bojan.duleski)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/duleskib/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojan-dulevski-53711a321/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/fzttcrimson)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FzttCrimson)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@crimsoon5776)
+- 🔭 I’m currently working on **Fittnes Authentication Project**
 
----
+- 🌱 I’m currently learning **SQL,Python**
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring)
-![.NET](https://img.shields.io/badge/.NET-%230512BD.svg?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git)
-![AJAX](https://img.shields.io/badge/AJAX-%230072C6.svg?style=for-the-badge&logo=javascript)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery)
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
+- 📫 How to reach me **dulevskibojan@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bojan-dulevski-53711a321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bojan-dulevski-53711a321/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/bojan.duleski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bojan.duleski/" height="30" width="40" /></a>
+</p>
 
-## 🧩 Languages Breakdown
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<div style="width:100%; height:18px; background:#2d333b; border-radius:10px; overflow:hidden;">
-  <div style="width:30%; height:100%; background:#f34b7d; float:left;"></div>
-  <div style="width:25%; height:100%; background:#b07219; float:left;"></div>
-  <div style="width:15%; height:100%; background:#f1e05a; float:left;"></div>
-  <div style="width:10%; height:100%; background:#3178c6; float:left;"></div>
-  <div style="width:8%; height:100%; background:#41b883; float:left;"></div>
-  <div style="width:7%; height:100%; background:#6db33f; float:left;"></div>
-  <div style="width:5%; height:100%; background:#178600; float:left;"></div>
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Bojan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bojan" /></a><a href="https://ko-fi.com/Bojan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Bojan" /></a></p><br><br>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bojandulevski&show_icons=true&locale=en&layout=compact" alt="bojandulevski" /></p>
 
-🔴 **C++** 30%  
-🟤 **Java** 25%  
-🟡 **JavaScript** 15%  
-🔵 **TypeScript** 10%  
-🟢 **Vue.js** 8%  
-🟢 **Spring Boot** 7%  
-🟢 **C# / .NET** 5%  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bojandulevski&show_icons=true&locale=en" alt="bojandulevski" /></p>
 
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=BojanDulevski&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-⭐ Always learning. Always building.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bojandulevski&" alt="bojandulevski" /></p>
