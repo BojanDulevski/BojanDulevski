@@ -1,34 +1,21 @@
-<h1 align="center">Hi 👋 I'm Bojan Dulevski</h1>
-<h3 align="center">Computer Science Student @ FINKI | Full-Stack Developer</h3>
+# 💫 About Me:
+I’m a Computer Science student at FINKI, focused on developing strong programming skills and a solid understanding of core computer science concepts. I approach programming with a logical and analytical mindset, always aiming to understand problems deeply before jumping into solutions.<br><br>I learn quickly, think critically, and enjoy tackling complex problems that require structured thinking and persistence. Rather than memorizing syntax, I focus on understanding underlying principles and applying them effectively in practice. I’m motivated, disciplined, and constantly working on improving my skills through hands-on coding and continuous learning.<br><br>I’m interested in building reliable, efficient solutions and growing into a well-rounded software engineer who writes clear, thoughtful, and maintainable code.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bojandulevski&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bojan.duleski/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bojan-dulevski-53711a321/) 
 
-### 👨‍💻 About Me
-I am a **Computer Science student at the Faculty of Computer Science and Engineering (FINKI)** in North Macedonia 🇲🇰.  
-I am currently focused on building a strong foundation in **software engineering**, **object-oriented programming**, and **full-stack web development** through university coursework and personal projects.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bojan Dulevski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bojan Dulevski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bojan Dulevski&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I enjoy learning how systems work under the hood and applying that knowledge to real-world applications.
-
----
-
-### 🎓 Education
-- **Faculty of Computer Science and Engineering (FINKI)**
-- Field of study: **Computer Science / Software Engineering**
-- Focus areas:
-  - Object-Oriented Programming
-  - Data Structures & Algorithms
-  - Web Technologies
-  - Databases
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bojan Dulevski&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Bojan Dulevski&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧠 Technical Skills
-```text
-Frontend:   HTML, CSS, JavaScript, jQuery, TypeScript, React, Vue.js
-Backend:    Java (Advanced concepts), .NET (C#)
-Programming: Object-Oriented C, C#
-Tools:      Git
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
