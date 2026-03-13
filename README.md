@@ -2,7 +2,7 @@
 I’m a Computer Science student at FINKI, focused on developing strong programming skills and a solid understanding of core computer science concepts. I approach programming with a logical and analytical mindset, always aiming to understand problems deeply before jumping into solutions.<br><br>I learn quickly, think critically, and enjoy tackling complex problems that require structured thinking and persistence. Rather than memorizing syntax, I focus on understanding underlying principles and applying them effectively in practice. I’m motivated, disciplined, and constantly working on improving my skills through hands-on coding and continuous learning.<br><br>I’m interested in building reliable, efficient solutions and growing into a well-rounded software engineer who writes clear, thoughtful, and maintainable code.
 
 ## 🚀 Quick Links:
-| 🖥️ Portfolio | 📄 Curriculum Vitae |
+| 🖥️ Portfolio | 📄 CV |
 | :--- | :--- |
 | [![Portfolio](https://img.shields.io/badge/Live_Demo-Check_it_out!-556B2F?style=for-the-badge&logo=vercel&logoColor=white)](https://bojandulevski.vercel.app) | [![Download CV](https://img.shields.io/badge/Download_CV-JPG-4A5D23?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/BojanDulevski/WebPortfolio/blob/master/PDF%20CV.jpg?raw=true) |
 
