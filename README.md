@@ -4,13 +4,15 @@ I’m a Computer Science student at FINKI, focused on developing strong programm
 ## 🚀 Quick Links:
 | 🖥️ Portfolio | 📄 Curriculum Vitae |
 | :--- | :--- |
-| [![Portfolio](https://img.shields.io/badge/Live_Demo-Check_it_out!-556B2F?style=for-the-badge&logo=vercel&logoColor=white)](https://bojandulevski.vercel.app) | [![Download CV](https://img.shields.io/badge/Download_CV-PDF-4A5D23?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/BojanDulevski/web-portfolio/raw/main/src/assets/CV.png) |
+| [![Portfolio](https://img.shields.io/badge/Live_Demo-Check_it_out!-556B2F?style=for-the-badge&logo=vercel&logoColor=white)](https://bojandulevski.vercel.app) | [![Download CV](https://img.shields.io/badge/Download_CV-JPG-4A5D23?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/BojanDulevski/WebPortfolio/blob/master/PDF%20CV.jpg?raw=true) |
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bojan.duleski/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojan-dulevski-53711a321/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/duleskib/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/BojanDulevski)
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
