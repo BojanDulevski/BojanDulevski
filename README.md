@@ -4,7 +4,7 @@ I’m a Computer Science student at FINKI, focused on developing strong programm
 ## 🚀 Quick Links:
 | 🖥️ Portfolio | 📄 CV |
 | :--- | :--- |
-| [![Portfolio](https://img.shields.io/badge/Live_Demo-Check_it_out!-556B2F?style=for-the-badge&logo=vercel&logoColor=white)](https://bojandulevski.vercel.app) | [![Download CV] ![Download CV](https://img.shields.io/badge/Download_CV-JPG-4A5D23?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/BojanDulevski/WebPortfolio/blob/master/PDF%20CV.jpg?raw=true) |
+| [![Portfolio](https://img.shields.io/badge/Live_Demo-Check_it_out!-556B2F?style=for-the-badge&logo=vercel&logoColor=white)](https://bojandulevski.vercel.app) | [![Download CV](https://img.shields.io/badge/Download_CV-JPG-4A5D23?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/BojanDulevski/WebPortfolio/blob/master/PDF%20CV.jpg?raw=true) |
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bojan.duleski/) 
