@@ -34,7 +34,7 @@ I’m a Computer Science student at FINKI, focused on developing strong programm
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Architecture-%23007ACC.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%23FF6F00.svg?style=for-the-badge&logo=abstract&logoColor=white)
 
 # 📊 GitHub Stats:
 
