@@ -12,7 +12,7 @@ I’m a Computer Science student at FINKI, focused on developing strong programm
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/BojanDulevski)
 
 
-# 💻 Технолошки Стек
+# 💻 Skills
 
 ### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
