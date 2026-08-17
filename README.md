@@ -52,6 +52,9 @@ I’m a Computer Science student at FINKI, focused on developing strong programm
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge&logo=groq&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%231C1C1C.svg?style=for-the-badge&logo=chromadb&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama_3.1-%230466C8.svg?style=for-the-badge&logo=meta&logoColor=white)
 
 # 📊 GitHub Stats:
 
