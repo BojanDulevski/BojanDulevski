@@ -26,6 +26,7 @@ I’m a Computer Science student at FINKI, focused on developing strong programm
 ![Anime.js](https://img.shields.io/badge/anime.js-%23FF2D20.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+
 ### ⚙️ Backend & Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -36,6 +37,7 @@ I’m a Computer Science student at FINKI, focused on developing strong programm
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-%23FF6F00.svg?style=for-the-badge&logo=abstract&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📊 Databases & Data Analysis
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
